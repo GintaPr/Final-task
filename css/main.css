@@ -27,3 +27,6 @@ body {
 .fancy-box img {
   margin-top: 10px;
 }
+.chat {
+  border: solid 1px;
+}
