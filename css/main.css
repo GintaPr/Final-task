@@ -2,6 +2,9 @@ body {
   background-color: rgb(182, 182, 12);
   padding-top: 60px;
 }
+.footer {
+  background-color: lightgrey;
+}
 
 .carousel {
   border: solid 2px darkolivegreen;
@@ -18,7 +21,7 @@ body {
 }
 
 .list-group-item {
-  border-bottom: solid 10px black;
+  border-bottom: solid 1px black;
 }
 
 .tabs {
@@ -29,4 +32,8 @@ body {
 }
 .chat {
   border: solid 1px;
+}
+
+.message-board {
+  max-height: 300px;
 }
